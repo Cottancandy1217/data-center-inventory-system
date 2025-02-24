@@ -1,0 +1,18 @@
+Asset ID,Type,Manufacturer,Model,Serial Number,Location,Status,IP Address,Power Consumption
+SERVER002,server,HP,ProLiant DL380,DEF456UVW,Rack A1,offline,192.168.1.11,450
+SWITCH001,switch,Cisco,Catalyst 2960,GHI789RST,Rack A2,online,192.168.1.20,100
+SWITCH002,switch,Juniper,EX2300,JKL012MNO,Rack A2,offline,192.168.1.21,80
+ROUTER001,router,Cisco,ASR 1001-X,PQR345STU,Rack A3,online,192.168.1.30,150
+ROUTER002,router,Juniper,MX104,VWX678YZ,Rack A3,offline,192.168.1.31,120
+SERVER003,server,Dell,PowerEdge R730,1234567890,Rack B1,online,192.168.1.40,480
+SERVER004,server,HP,ProLiant DL360,ABCDEFGHIJ,Rack B1,online,192.168.1.41,420
+SWITCH003,switch,Cisco,Catalyst 3850,KLMNOPQRST,Rack B2,online,192.168.1.50,130
+SWITCH004,switch,Juniper,EX4300,UVWXYZ1234,Rack B2,offline,192.168.1.51,110
+ROUTER003,router,Cisco,ASR 1002-X,567890ABCDE,Rack B3,online,192.168.1.60,160
+ROUTER004,router,Juniper,MX204,FGHIJKLMNOP,Rack B3,offline,192.168.1.61,140
+SERVER005,server,Lenovo,ThinkSystem SR650,QWERTYUIOP,Rack C1,online,192.168.1.70,520
+SERVER006,server,Lenovo,ThinkSystem SR630,ASDFGHJKL,Rack C1,offline,192.168.1.71,460
+SWITCH005,switch,Arista,7050X3,ZXCVBNM123,Rack C2,online,192.168.1.80,140
+SWITCH006,switch,Arista,7280R3,QAZWSXEDC,Rack C2,offline,192.168.1.81,120
+ROUTER005,router,Arista,7280R3,RFVTGBYHNU,Rack C3,online,192.168.1.90,170
+ROUTER006,router,Arista,7500R3,YHNUIJMKO,Rack C3,offline,192.168.1.91,150
